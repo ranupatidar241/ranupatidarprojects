@@ -1,6 +1,6 @@
 "use client";  
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './firstjs/styles/internal.css';
+import '../styles/internal.css';
 
 
 export default class Content {

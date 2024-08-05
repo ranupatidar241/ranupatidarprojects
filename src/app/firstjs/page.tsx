@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../firstjs/styles/internal.css';
 import { useState } from "react";
